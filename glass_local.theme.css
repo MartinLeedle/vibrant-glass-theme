@@ -1,10 +1,11 @@
 /**
+    * Small Edits by Martin Lee
     * @name Vibrant Glass
     * @version 1.0
     * @description Simple customizable glass theme.
     * @author Kaynooo#8080
     *
-    * @source https://github.com/Kayno0o/vibrant-glass-theme
+    * @source https://github.com/MartinLeedle/vibrant-glass-theme
     * @invite XhPKd5x7Fz
 **/
 
@@ -18,7 +19,7 @@
 
 */
 
-@import url("https://raw.githack.com/Kayno0o/vibrant-glass-theme/main/glass_remote.theme.css");
+@import url("https://raw.githack.com/MartinLeedle/vibrant-glass-theme/main/glass_remote.theme.css");
 
 /*
 to customize rgb color : https://www.google.com/search?q=color+picker and copy the RGB thing
@@ -31,7 +32,7 @@ to create custom gradient : https://cssgradient.io/ and copy the linear-gradient
     /*
     name of the Discord window (top left)
     default : "Vibrant Glass" */
-    --window-name: "Vibrant Glass";
+    --window-name: "Discord";
     /*
     color of the Discord window name
     default : rgb(255, 255, 255) */
